@@ -107,7 +107,7 @@ if (isset($_POST['login'])) {
             <label class="form-label small">PASSWORD</label>
             <input type="password" name="password" class="form-control" required>
         </div>
-        <button type="submit" name="login" class="btn btn-pixel">ENTER WORLD</button>
+        <button type="submit" name="login" class="btn btn-pixel">ENTER</button>
     </form>
 </div>
 
